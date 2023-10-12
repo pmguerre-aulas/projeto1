@@ -1,3 +1,3 @@
-def get_int(str):
-	i = int(input(str))
-	return i
+def get_int(s):
+	i = input(s)
+	return int(i)
