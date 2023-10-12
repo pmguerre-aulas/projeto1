@@ -1,0 +1,11 @@
+# Diretoria de cache do Python
+__pycache__/
+
+# Ambientes Virtuais do Python
+.venv/
+.env/
+
+# Ficheiros de Backup
+*.bak
+*~
+
