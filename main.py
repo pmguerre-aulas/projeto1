@@ -1,9 +1,10 @@
 from get_int import *
+from get_float import *
 
 if __name__ == '__main__':
-	x = get_int("x: ")
-	y = get_int("y: ")
+	x = get_float("x: ")
+	i = get_int("i: ")
 	
-	z = x+y
+	z = x*i
 
 	print(z)
